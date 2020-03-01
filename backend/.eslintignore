@@ -1,0 +1,9 @@
+# dependencies
+/node_modules
+
+# production
+/dist
+
+/.circleci
+package.json
+package-lock.json
